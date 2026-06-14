@@ -31,3 +31,11 @@ Ashu
 2. Import library_management.sql.
 3. Execute the script.
 4. Run queries.
+
+5. ## Screenshots
+
+### Books Table
+![Books Table](book_table.png)
+
+### Join Query Output
+![Join Query](join_query_output.png)
